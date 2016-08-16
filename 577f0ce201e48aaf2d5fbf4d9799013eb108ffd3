@@ -1,0 +1,9 @@
+Code-Review+2: Thai Tran <tqtran@us.ibm.com>
+Code-Review+2: Diana Whitten <hurgleburgler@gmail.com>
+Workflow+1: Diana Whitten <hurgleburgler@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 16 Aug 2016 15:26:32 +0000
+Reviewed-on: https://review.openstack.org/350514
+Project: openstack/xstatic-bootstrap-scss
+Branch: refs/heads/master
