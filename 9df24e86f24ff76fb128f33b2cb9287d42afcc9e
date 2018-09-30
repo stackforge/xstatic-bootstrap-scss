@@ -1,0 +1,8 @@
+Code-Review+2: Akihiro Motoki <amotoki@gmail.com>
+Workflow+1: Akihiro Motoki <amotoki@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Sun, 30 Sep 2018 09:33:07 +0000
+Reviewed-on: https://review.openstack.org/606581
+Project: openstack/xstatic-bootstrap-scss
+Branch: refs/heads/master
