@@ -1,0 +1,9 @@
+Code-Review+2: Ivan Kolodyazhny <e0ne@e0ne.info>
+Code-Review+2: Vishal Manchanda <manchandavishal143@gmail.com>
+Workflow+1: Vishal Manchanda <manchandavishal143@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 19 Mar 2020 07:35:08 +0000
+Reviewed-on: https://review.opendev.org/710865
+Project: openstack/xstatic-bootstrap-scss
+Branch: refs/heads/master
